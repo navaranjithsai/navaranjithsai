@@ -9,4 +9,4 @@ navaranjithsai/navaranjithsai is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![Visitors](https://moe-counter.glitch.me/get/@navaranjithsai)
+![Visitors](https://count.getloli.com/@navaranjithsai)
